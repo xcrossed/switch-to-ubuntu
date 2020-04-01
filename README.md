@@ -10,5 +10,5 @@ If you are not a programmer, you already hate the various pop-up windows under w
 
 You need to download a ubuntu system image to a U disk, make a boot disk or your computer motherboard supports UEFI, you can directly copy the files to the u disk and start the installation directly. The download address is https://ubuntu.com/download/desktop.
 
-## Productivity software required
+## productivity software required
 
