@@ -6,6 +6,7 @@ sed -i "s/cn.archive.ubuntu.com/mirrors.aliyun.com/g" /etc/apt/sources.list
 sudo apt update && sudo apt upgrade
 sudo apt install git
 sudo apt install curl
+sudo apt install vim
 sudo apt install fcitx-table-wbpy fcitx-config-gtk
 im-config -n fcitx
 sudo apt install gcc
