@@ -81,6 +81,6 @@ qq
 
 ​	chrome-gnome-shell
 
-​	
+​	桌面壁纸自动替换
 
 ​	
